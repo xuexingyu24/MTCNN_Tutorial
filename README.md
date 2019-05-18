@@ -1,0 +1,2 @@
+# MTCNN_Tutorial-
+As a series of tutorials on the most popular deep learning algorithms for new-entry deep learning research engineers, MTCNN has been widely adopted in industry for human face detection task which is an essential step for subsquential face recognition and facial expression analysis. This tutorial is designed to explain how to implement the algorithm. In this tutorial, developers will learn how to build MTCNN model for face detection task.
